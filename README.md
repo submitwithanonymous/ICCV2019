@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 This is the source code and additional visualization examples of our Radial-GCN, Radial Graph Convolutional Network for Visual Question Generation.
 
@@ -9,27 +9,25 @@ This is the source code and additional visualization examples of our Radial-GCN,
 ![framework](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/framwork_new_.png)
 
 
-### Visual Examples
+## Visual Examples
 
-<br>  
-
-#### View VQG Process  
+### View VQG Process  
 ![VQG Process](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual_new3.png)
 
 <br>
 <br>   
 
-#### View Question Distribution
+### View Question Distribution
 ![Distribution](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/tsne_vis.png)
 
 <br>
 <br>  
 
-#### View Supp. for ZS-VQA
+### View Supp. for ZS-VQA
 ![Supp](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/supp_q.png)
 
 <br>
 <br>  
 
-#### View More Examples
+### View More Examples
 ![More Examples](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual.png)
