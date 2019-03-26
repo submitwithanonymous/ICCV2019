@@ -10,18 +10,21 @@ This is the source code and additional visualization examples of our Radial-GCN,
 
 
 ### Visual Examples
-<br>
+\<br>
 #### View VQG Process  
 ![VQG Process](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual_new3.png)
-<br>
-<br>
+
+\<br>
+\<br>
 #### View Question Distribution
 ![Distribution](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/tsne_vis.png)
-<br>
-<br>
+
+\<br>
+\<br>
 #### View Supp. for ZS-VQA
 ![Supp](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/supp_q.png)
-<br>
-<br>
+
+\<br>
+\<br>
 #### View More Examples
 ![More Examples](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual.png)
