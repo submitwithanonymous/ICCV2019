@@ -1,0 +1,6 @@
+[submodule "ZS_VQA/bottom-up-attention-vqa"]
+	path = ZS_VQA/bottom-up-attention-vqa
+	url = https://github.com/hengyuan-hu/bottom-up-attention-vqa
+[submodule "ZS_VQA/ban-vqa"]
+	path = ZS_VQA/ban-vqa
+	url = https://github.com/jnhwkim/ban-vqa
