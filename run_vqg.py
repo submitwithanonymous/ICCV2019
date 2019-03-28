@@ -37,12 +37,6 @@ def train(args):
         Train a VQG model using the training set and validate on val set.
     """
 
-    # set random seed
-    torch.manual_seed(1000)
-    if torch.cuda.is_available():
-        torch.cuda.manual_seed(1000)
-    else:
-        raise SystemExit('No CUDA available, script requires cuda')
 
     # Load the VQA training set
     print('Loading data...')
