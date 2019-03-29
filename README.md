@@ -29,11 +29,12 @@ This is the source code and additional visualization examples of our Radial-GCN,
 |	├── process_image_vqg.py  /* Files for preprocess image
 |	├── preprocess_text.py    /* Files for preprocess text
 ```
-More running details would be released later.
+
 <br>
 
 ## Visual Examples
 More details can be refer to our **main text** and **supplementary**.
+<br>
 <br>
 ### View VQG Process  
 ![VQG Process](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual_new3.png)
