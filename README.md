@@ -37,10 +37,7 @@ This is the source code and additional visualization examples of our Radial-GCN,
 
 
 
-
-<escape>
-
-<table class="tg">
+<table class="tg" align="center" border="1">
   <tr>
     <th class="tg-uys7" rowspan="2">Method</th>
     <th class="tg-uys7" colspan="5">VQA2</th>
@@ -150,7 +147,7 @@ This is the source code and additional visualization examples of our Radial-GCN,
     <td class="tg-7btt">0.527</td>
   </tr>
 </table>
-</escape>
+
 
 <br>
 
