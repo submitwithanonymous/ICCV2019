@@ -12,7 +12,8 @@ This is the source code and additional visualization examples of our Radial-GCN,
 <br>
 
 ## Visual Examples
-More details can be refer to our main text and supplementary.
+More details can be refer to our **main text** and **supplementary**.
+<br>
 ### View VQG Process  
 ![VQG Process](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual_new3.png)
 
@@ -32,4 +33,4 @@ More details can be refer to our main text and supplementary.
 <br>  
 
 ### View More Examples
-![More Examples](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual.png)
+![More Examples](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual3.png)
