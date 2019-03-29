@@ -16,20 +16,20 @@ More run details would be released later.
 ```
 
 ├── Radial-GCN/
-|	├── run_vqg.py						/* The main run files
-|	├── layer_vqg.py					/* Files for the model layer and structure (GCN, VQG)
-|	├── dataset_vqg.py					/* Files for construct vqg dataset
-|	├── utils.py						/* Files for tools
-|	├── main.py							/* Files for caption evaluation
-|	├── supp_questions					/* Files for generate questions for supplementary dataset for zero shot VQA
-|	├── draw_*.py						/* Files for drawing and visualisation
-│   ├── ZS_VQA/
-|	|	├── data/						/* Data file for zs_vqa
-│   ├── data/         					/* Data files for training vqg
-|	|	├── tools/						/* The modified file from 	 bottom-up attention
-|	|	├── process_image_vqg.py		/* Files for preprocess image
-|	|	├── preprocess_text.py			/* Files for preprocess text
-│   ├── readme.md
+|	├── run_vqg.py						  /* The main run files
+|	├── layer_vqg.py					  /* Files for the model layer and structure (GCN, VQG)
+|	├── dataset_vqg.py				  /* Files for construct vqg dataset
+|	├── utils.py						    /* Files for tools
+|	├── main.py							    /* Files for caption evaluation
+|	├── supp_questions				  /* Files for generate questions for supplementary dataset for zero shot VQA
+|	├── draw_*.py						    /* Files for drawing and visualisation
+│ ├── ZS_VQA/
+| 	├── data/						      /* Data file for zs_vqa
+│ ├── data/         				  /* Data files for training vqg
+|		├── tools/						    /* The modified file from 	 bottom-up attention
+|		├── process_image_vqg.py	/* Files for preprocess image
+|		├── preprocess_text.py		/* Files for preprocess text
+│ ├── readme.md
 
 ```
 <br>
