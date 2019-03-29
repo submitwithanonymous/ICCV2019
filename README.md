@@ -55,4 +55,7 @@ More details can be refer to our **main text** and **supplementary**.
 <br>  
 
 ### View More Examples
+”**Q**”, “**A**” and “**Q***” denote the ground truth question, the given answer and generated question respectively.
+
 ![More Examples](https://github.com/submitwithanonymous/ICCV2019/raw/master/fig/visual3.png)
+
